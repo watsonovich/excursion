@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  size: 50px;
+  color: whitesmoke;
+  text-align: center;
+}
+
+p {
+  size: 16px;
+  color: aquamarine;
+  text-decoration: underline;
+}
