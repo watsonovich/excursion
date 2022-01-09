@@ -10,10 +10,23 @@ h1 {
   text-align: center;
 }
 
-p {
+.link {
   size: 16px;
   color: aquamarine;
   text-decoration: underline;
+}
+
+.gray {
+  size: 21px;
+  color: gray;
+}
+
+.right {
+  text-align: right;
+}
+
+.icon {
+  margin-top: 50px;
 }
 
 h2 {
